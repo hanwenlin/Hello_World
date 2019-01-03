@@ -69,7 +69,7 @@ Markdown是一种纯文本格式的标记语言。通过简单的标记语法，
 [超链接名](超链接地址 "超链接title")
 title可加可不加
 
-[百度](https://www.baidu.com)
-[简书](https://www.jianshu.com,'jianshu')
+[百度](https://www.baidu.com)  
+[简书](https://www.jianshu.com)
 
 
