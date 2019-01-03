@@ -147,7 +147,7 @@ title可加可不加
 
 `print('hello world')`
 ```
-  def sums(a,b):
-      print(a+b)
+ def sums(a,b):
+     print(a+b)
 ```
 
